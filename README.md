@@ -1,4 +1,4 @@
-![logo](https://github.com/Souvik0001/Souvik0001/blob/main/My%20Profile.png)
+![logo](https://github.com/Souvik0001/Souvik0001/blob/main/Customized%20Banner.png)
 # Hi 👋, I'm Souvik Chowdhury
 A passionate Full Stack Developer from India.
 
