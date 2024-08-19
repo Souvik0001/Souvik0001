@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Pre-final year student at VIT Vellore.<br><br>🌱 I’m currently learning Spring Boot<br><br>💬 Ask me about HTML ,CSS ,JavaScript ,React ,Node.js ,Express.js ,MongoDB ,MySQL ,PostgreSQL .<br><br>📫 Reach me at souvikchowdhury095@gmail.com
+🔭 I’m currently a Pre-final year student at VIT Vellore.<br><br>🌱 I’m currently learning Spring Boot.<br><br>💬 Ask me about HTML ,CSS ,JavaScript ,React ,Node.js ,Express.js ,MongoDB ,MySQL ,PostgreSQL .<br><br>📫 Reach me at souvikchowdhury095@gmail.com
 
 
 ## 🌐 Socials:
