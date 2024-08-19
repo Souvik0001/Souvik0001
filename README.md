@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Node.js,Express.js,MongoDB,MySQL,PostgreSQL**
+- 💬 Ask me about **HTML ,CSS ,JavaScript ,React ,Node.js ,Express.js ,MongoDB ,MySQL ,PostgreSQL **
 
 - 📫 How to reach me **souvikchowdhury095@gmail.com**
 
